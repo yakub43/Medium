@@ -6,7 +6,7 @@ Here You will find all the articles I wrote on medium
 
 Welcome to my collection of thought-provoking articles on various topics, carefully crafted and curated on the Medium platform. Here, you'll find a diverse range of content that reflects my passion for knowledge sharing and exploration. Each article is a journey through ideas, insights, and perspectives. Feel free to dive in and explore the world of thought-provoking content!
 
-## Articles
+## 📚 Articles
 
 ### 1. [**Statistics For Data Science Part — I**](https://medium.com/@yakubakku43/statistics-for-data-science-part-i-a01bdf3e58f0)
    - In this part — I of Statistics for Data Science Following Topics were Covered -

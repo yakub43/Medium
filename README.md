@@ -27,7 +27,7 @@ Welcome to my collection of thought-provoking articles on various topics, carefu
 
 ### 3. [**Statistics for Data Science Part — III**](https://medium.com/@yakubakku43/statistics-for-data-science-part-iii-47c9e2f7a32a)
    - In this part — III of Statistics for Data Science Following Topics were Covered -
-
+     
       Normal Distribution/Gaussian Distribution
       Standard Normal Distribution
       z — Score

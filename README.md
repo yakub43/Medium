@@ -10,6 +10,7 @@ Welcome to my collection of thought-provoking articles on various topics, carefu
 
 ### 1. [**Statistics For Data Science Part — I**](https://medium.com/@yakubakku43/statistics-for-data-science-part-i-a01bdf3e58f0)
    - In this part — I of Statistics for Data Science Following Topics were Covered -
+     
       Descriptive Statistics
       Inferential Statistics
       Sampling Techniques
@@ -24,12 +25,16 @@ Welcome to my collection of thought-provoking articles on various topics, carefu
     Percentile and Quartile
     5 Number Summary (Box Plot)
 
-### 3. [**Demystifying Blockchain: Beyond Cryptocurrencies**](link-to-article-3)
-   - Journey into the heart of blockchain technology, exploring its potential beyond cryptocurrencies. Understand how this decentralized ledger is reshaping industries.
+### 3. [**Statistics for Data Science Part — III**](https://medium.com/@yakubakku43/statistics-for-data-science-part-iii-47c9e2f7a32a)
+   - In this part — III of Statistics for Data Science Following Topics were Covered -
 
-### 4. [**The Future of Sustainable Living: Green Technologies**](link-to-article-4)
-   - Investigate cutting-edge technologies that are paving the way for a sustainable future. From renewable energy to eco-friendly innovations, explore the solutions for a greener planet.
+      Normal Distribution/Gaussian Distribution
+      Standard Normal Distribution
+      z — Score
+      Standardization and Normalization
 
+### 4. [**Explainable Artificial Intelligence (XAI) and its Applications**](https://medium.com/@yakubakku43/explainable-artificial-intelligence-xai-and-its-applications-784c85e2b430)
+   - Artificial Intelligence (AI) has made significant strides in recent years, transforming industries and our daily lives. However, one of the major challenges of AI is the lack of transparency in how it makes decisions, which can lead to concerns about fairness, accountability, and trustworthiness. Explainable Artificial Intelligence (XAI) aims to address this issue by making AI models more transparent and interpretable.
 ### 5. [**Unlocking Creativity: A Guide for Every Mind**](link-to-article-5)
    - Embrace your creative potential with insights and techniques that inspire innovation. Discover how to overcome creative blocks and foster a mindset conducive to original thinking.
 

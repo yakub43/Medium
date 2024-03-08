@@ -18,6 +18,7 @@ Welcome to my collection of thought-provoking articles on various topics, carefu
 
 ### 2. [**Statistics for Data Science Part — II**](https://medium.com/@yakubakku43/statistics-for-data-science-part-ii-2b5d117a294f)
    - In This part — II of Statistics for Data Science Following Topics were Covered -
+     
     Histogram
     A measure of Central Tendency
     Measure of Dispersion
